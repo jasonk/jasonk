@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonk&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonk&layout=compact)
+
+
 <!--
 **jasonk/jasonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 Pronouns: he/him
